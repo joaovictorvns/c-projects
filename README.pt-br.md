@@ -1,4 +1,4 @@
-# projects-c
+# c-projects
 
 Leia isto em outros idiomas:
 - [English](README.en.md)
