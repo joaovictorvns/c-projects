@@ -1,0 +1,4 @@
+Como compilar:
+gcc -Wall module\module.c main.c -o main.exe
+Outra forma de compilar:
+gcc -o main.exe module\module.c main.c -Wall
